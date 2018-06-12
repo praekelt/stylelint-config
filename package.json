@@ -1,6 +1,6 @@
 {
   "name": "@prk/stylelint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Praekelt Consulting Stylelint config.",
   "keywords": [
     "stylelint",
@@ -8,7 +8,7 @@
     "praekelt"
   ],
   "author": "Praekelt Consulting",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "repository": "git@github.com:praekelt/stylelint-config.git",
   "main": "index.js",
   "files": [
